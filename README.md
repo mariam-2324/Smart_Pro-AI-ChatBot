@@ -1219,4 +1219,14 @@ That is what turned the basic API chatbot into a more complete **AI-powered Reac
 #ReactJS #GenerativeAI #AIChatbot #Groq #Vite #JavaScript #WebDevelopment
 
 
+## 🖼️ Chatbot Preview
 
+<p align="center">
+  <img src="/GroqAI-ChatBot1.png" alt="AI Chatbot Preview" width="800"/>
+</p>
+
+## 📱 And look at the responsive version too
+
+<p align="center">
+  <img src="/groq-AI_ChatBot-Responsive.png" alt="AI Chatbot Preview" width="800"/>
+</p>
