@@ -1222,11 +1222,11 @@ That is what turned the basic API chatbot into a more complete **AI-powered Reac
 ## 🖼️ Chatbot Preview
 
 <p align="center">
-  <img src="/GroqAI-ChatBot1.png" alt="AI Chatbot Preview" width="800"/>
+  <img src="/GroqAI-ChatBot1.png" alt="AI Chatbot Preview" width="500"/>
 </p>
 
 ## 📱 And look at the responsive version too
 
 <p align="center">
-  <img src="/groq-AI_ChatBot-Responsive.png" alt="AI Chatbot Preview" width="800"/>
+  <img src="/groq-AI_ChatBot-Responsive.png" alt="AI Chatbot Preview" width="300"/>
 </p>
